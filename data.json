@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "titulo": "Pulp Fiction",
+        "año": 1994,
+        "duracion": 153,
+        "direccion": "Quentin Tarantino",
+        "genero": "Thriller",
+        "img": "https://pics.filmaffinity.com/pulp_fiction-210382116-large.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "Wild at Heart",
+        "año": 1990,
+        "duracion": 125,
+        "direccion": "David Lynch",
+        "genero": "Drama",
+        "img": "https://pics.filmaffinity.com/wild_at_heart-799674263-large.jpg"
+    },
+    {
+        "id": 3,
+        "titulo": "Casino",
+        "año": 1995,
+        "duracion": 173,
+        "direccion": "Martin Scorsese",
+        "genero": "Thriller",
+        "img": "https://pics.filmaffinity.com/casino-348445329-large.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "Wall Street",
+        "año": 1987,
+        "duracion": 120,
+        "direccion": "Oliver Stone",
+        "genero": "Drama",
+        "img": "https://pics.filmaffinity.com/wall_street-224965061-large.jpg"
+    }
+]

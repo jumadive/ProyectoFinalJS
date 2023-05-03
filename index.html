@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PELICULAS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>PELICULAS</h1>
+    <div id="login">
+        <h2 class="login-input">Registrarse</h2>
+        <input id="usuarioReg" placeholder="Usuario">
+        <input id="passwordReg" placeholder="Contraseña">
+        <button id="registrarse">Registrarse</button>
+        <h2>Iniciar Sesión</h2>
+        <input id="usuario" placeholder="Usuario">
+        <input id="password" placeholder="Contraseña">
+        <button id="iniciarSesion">Iniciar Sesión</button>
+    </div>
+    <div id="usuarioLogueado">
+        <button id="cerrarSesion" class="ocultar">Cerrar Sesion</button>
+    </div>
+    <input class="buscador" type="text" id="buscador" placeholder="Buscar por título">
+    <div id="contenedorPeliculas"></div>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="script.js"></script>
+</body>
+</html>
